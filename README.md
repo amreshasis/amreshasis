@@ -84,14 +84,6 @@ Responsive web interface designed and developed for a client.
 
 ---
 
-### 🟩 GitHub Contributions Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/amreshasis" alt="Amresh's GitHub chart" />
-</p>
-
----
-
 ### 🏆 Achievements & Trophies
 
 <p align="center">
@@ -103,9 +95,14 @@ Responsive web interface designed and developed for a client.
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:amreshasis07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/asisamresh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amreshasis07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/asisamresh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
